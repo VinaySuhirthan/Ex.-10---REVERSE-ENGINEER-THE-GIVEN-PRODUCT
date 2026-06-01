@@ -1,6 +1,7 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
-
-### DATE: 
+# Ex No.4  - REVERSE ENGINEER THE GIVEN PRODUCT
+### Name: K S Vinay Suhirthan
+### Register Number: 212224230305
+### DATE: 01-06-2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +33,17 @@
 
 ## Input:
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7408110d-7914-4008-933b-f6217ae8feaa" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/22b30f1a-6f50-4a82-8e4e-1657f634361c" />
+
+
+
 ### Output:
 
+![exp4ss2](https://github.com/user-attachments/assets/f3c9fea3-de1f-4956-aed8-d2d100a108fc)
 
-### Name:
-### Register Number:
+
+
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
