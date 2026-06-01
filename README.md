@@ -40,7 +40,9 @@
 
 ### Output:
 
-![exp4ss2](https://github.com/user-attachments/assets/f3c9fea3-de1f-4956-aed8-d2d100a108fc)
+<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/e7664553-695e-4840-8f16-edae7d632f5e" />
+![Uploading image.png…]()
+
 
 
 
