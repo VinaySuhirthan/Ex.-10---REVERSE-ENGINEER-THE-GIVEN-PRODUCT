@@ -41,7 +41,8 @@
 ### Output:
 
 <img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/e7664553-695e-4840-8f16-edae7d632f5e" />
-![Uploading image.png…]()
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76ef4b2c-54e7-4ae7-8b59-21f93c514487" />
+
 
 
 
